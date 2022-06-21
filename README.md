@@ -1,3 +1,5 @@
+#VIDEO-ASCII-ART
+
 ## Project Description
 ASCII(American Standard Code for Information Interchange) is a common encoding format used for representing text data in computers. Originally, the project is dedicated to transforming digital images to ASCII art. Digital images are stored in computers as two-dimensional rectangular array of pixels. Grayscale images have eight bits per pixel. Each pixel has value from 0 to 255, representing different shades of that color. These values from the digital image are converted in a manner forming ASCII art. The addition to the project is such that you can generate an ASCII art from a video clip.
 
