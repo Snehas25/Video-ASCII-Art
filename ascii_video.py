@@ -5,7 +5,7 @@ import cv2
 import math
 
 # attach the video to asciify
-video_input ="./data/spiral.mp4"
+video_input ="./data/spiral.mp4.mp4"
 
 # the character set used 
 character_list=list(" .'`^\",:;Il!i><~+_-?][}{1)(|\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$")
