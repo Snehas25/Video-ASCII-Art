@@ -30,7 +30,7 @@ num_chars = len(char_list)
 num_cols = 300
 
 # Reading Input Image
-image = cv2.imread("./data/rose.jpg")
+image = cv2.imread("./data/fish.jpg")
 
 # Converting Color Image to Grayscale
 image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
